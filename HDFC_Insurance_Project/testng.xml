@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.hdfc_insurance_project.script.VerfyTasks"/>
+      <class name="com.hdfc_insurance_project.script.VerfyValidLoginPageE"/>
+      <class name="com.hdfc_insurance_project.script.VerfyVersion"/>
+      <class name="com.hdfc_insurance_project.script.VerfyInvalidLoginPage"/>
+      <class name="com.hdfc_insurance_project.script.VerfyValidLoginPage"/>
+      <class name="com.hdfc_insurance_project.script.VerfyhomePageTitle"/>
+      <class name="com.hdfc_insurance_project.script.VerfyVersionE"/>
+      <class name="com.hdfc_insurance_project.script.VerfyChkBox"/>
+      <class name="com.hdfc_insurance_project.script.VerfyInvalidLoginPageE"/>
+      <class name="com.hdfc_insurance_project.script.VerfyLoginPageTitle"/>
+      <class name="com.hdfc_insurance_project.script.VerfyHomePage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

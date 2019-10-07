@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="153314" started-at="2019-09-10T08:31:47Z" finished-at="2019-09-10T08:34:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="153314" started-at="2019-09-10T08:31:47Z" finished-at="2019-09-10T08:34:20Z">
+      <class name="com.hdfc_insurance_project.script.VerfyValidLoginPageE">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyValidLoginPageE@6a4f787b]" name="preCondition" is-config="true" duration-ms="11545" started-at="2019-09-10T14:02:04Z" finished-at="2019-09-10T14:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyValidLoginPageE()[pri:0, instance:com.hdfc_insurance_project.script.VerfyValidLoginPageE@6a4f787b]" name="verfyValidLoginPageE" duration-ms="1384" started-at="2019-09-10T14:02:16Z" finished-at="2019-09-10T14:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyValidLoginPageE -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyValidLoginPageE@6a4f787b]" name="postCondition" is-config="true" duration-ms="1899" started-at="2019-09-10T14:02:17Z" finished-at="2019-09-10T14:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyValidLoginPageE -->
+      <class name="com.hdfc_insurance_project.script.VerfyVersion">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyVersion@685cb137]" name="preCondition" is-config="true" duration-ms="11284" started-at="2019-09-10T14:02:19Z" finished-at="2019-09-10T14:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyVersion()[pri:0, instance:com.hdfc_insurance_project.script.VerfyVersion@685cb137]" name="verfyVersion" duration-ms="153" started-at="2019-09-10T14:02:30Z" finished-at="2019-09-10T14:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyVersion -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyVersion@685cb137]" name="postCondition" is-config="true" duration-ms="15" started-at="2019-09-10T14:02:31Z" finished-at="2019-09-10T14:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyVersion -->
+      <class name="com.hdfc_insurance_project.script.VerfyInvalidLoginPage">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyInvalidLoginPage@6a41eaa2]" name="preCondition" is-config="true" duration-ms="11026" started-at="2019-09-10T14:02:31Z" finished-at="2019-09-10T14:02:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyInvalidLoginPage()[pri:0, instance:com.hdfc_insurance_project.script.VerfyInvalidLoginPage@6a41eaa2]" name="verfyInvalidLoginPage" duration-ms="1404" started-at="2019-09-10T14:02:42Z" finished-at="2019-09-10T14:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyInvalidLoginPage -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyInvalidLoginPage@6a41eaa2]" name="postCondition" is-config="true" duration-ms="15" started-at="2019-09-10T14:02:43Z" finished-at="2019-09-10T14:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyInvalidLoginPage -->
+      <class name="com.hdfc_insurance_project.script.VerfyHomePage">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyHomePage@39c0f4a]" name="preCondition" is-config="true" duration-ms="11522" started-at="2019-09-10T14:04:05Z" finished-at="2019-09-10T14:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyHomePage()[pri:0, instance:com.hdfc_insurance_project.script.VerfyHomePage@39c0f4a]" name="verfyHomePage" duration-ms="3435" started-at="2019-09-10T14:04:16Z" finished-at="2019-09-10T14:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyHomePage -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyHomePage@39c0f4a]" name="postCondition" is-config="true" duration-ms="364" started-at="2019-09-10T14:04:20Z" finished-at="2019-09-10T14:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyHomePage -->
+      <class name="com.hdfc_insurance_project.script.VerfyValidLoginPage">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyValidLoginPage@7cd62f43]" name="preCondition" is-config="true" duration-ms="11362" started-at="2019-09-10T14:02:43Z" finished-at="2019-09-10T14:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyValidLoginPage()[pri:0, instance:com.hdfc_insurance_project.script.VerfyValidLoginPage@7cd62f43]" name="verfyValidLoginPage" duration-ms="1481" started-at="2019-09-10T14:02:54Z" finished-at="2019-09-10T14:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyValidLoginPage -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyValidLoginPage@7cd62f43]" name="postCondition" is-config="true" duration-ms="1312" started-at="2019-09-10T14:02:56Z" finished-at="2019-09-10T14:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyValidLoginPage -->
+      <class name="com.hdfc_insurance_project.script.VerfyhomePageTitle">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyhomePageTitle@6d4b1c02]" name="preCondition" is-config="true" duration-ms="11949" started-at="2019-09-10T14:02:57Z" finished-at="2019-09-10T14:03:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyHomePageTitle()[pri:0, instance:com.hdfc_insurance_project.script.VerfyhomePageTitle@6d4b1c02]" name="verfyHomePageTitle" duration-ms="2354" started-at="2019-09-10T14:03:09Z" finished-at="2019-09-10T14:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyHomePageTitle -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyhomePageTitle@6d4b1c02]" name="postCondition" is-config="true" duration-ms="23" started-at="2019-09-10T14:03:11Z" finished-at="2019-09-10T14:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyhomePageTitle -->
+      <class name="com.hdfc_insurance_project.script.VerfyTasks">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyTasks@604ed9f0]" name="preCondition" is-config="true" duration-ms="12229" started-at="2019-09-10T14:01:47Z" finished-at="2019-09-10T14:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyTasks()[pri:0, instance:com.hdfc_insurance_project.script.VerfyTasks@604ed9f0]" name="verfyTasks" duration-ms="5177" started-at="2019-09-10T14:01:59Z" finished-at="2019-09-10T14:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyTasks -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyTasks@604ed9f0]" name="postCondition" is-config="true" duration-ms="31" started-at="2019-09-10T14:02:04Z" finished-at="2019-09-10T14:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyTasks -->
+      <class name="com.hdfc_insurance_project.script.VerfyLoginPageTitle">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyLoginPageTitle@7d9d1a19]" name="preCondition" is-config="true" duration-ms="10160" started-at="2019-09-10T14:03:54Z" finished-at="2019-09-10T14:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyLoginPagetitle()[pri:0, instance:com.hdfc_insurance_project.script.VerfyLoginPageTitle@7d9d1a19]" name="verfyLoginPagetitle" duration-ms="27" started-at="2019-09-10T14:04:05Z" finished-at="2019-09-10T14:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyLoginPagetitle -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyLoginPageTitle@7d9d1a19]" name="postCondition" is-config="true" duration-ms="158" started-at="2019-09-10T14:04:05Z" finished-at="2019-09-10T14:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyLoginPageTitle -->
+      <class name="com.hdfc_insurance_project.script.VerfyVersionE">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyVersionE@6093dd95]" name="preCondition" is-config="true" duration-ms="11556" started-at="2019-09-10T14:03:11Z" finished-at="2019-09-10T14:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyVersionE()[pri:0, instance:com.hdfc_insurance_project.script.VerfyVersionE@6093dd95]" name="verfyVersionE" duration-ms="306" started-at="2019-09-10T14:03:23Z" finished-at="2019-09-10T14:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyVersionE -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyVersionE@6093dd95]" name="postCondition" is-config="true" duration-ms="19" started-at="2019-09-10T14:03:23Z" finished-at="2019-09-10T14:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyVersionE -->
+      <class name="com.hdfc_insurance_project.script.VerfyInvalidLoginPageE">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyInvalidLoginPageE@4883b407]" name="preCondition" is-config="true" duration-ms="11607" started-at="2019-09-10T14:03:35Z" finished-at="2019-09-10T14:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyInvalidLoginPageE()[pri:0, instance:com.hdfc_insurance_project.script.VerfyInvalidLoginPageE@4883b407]" name="verfyInvalidLoginPageE" duration-ms="8245" started-at="2019-09-10T14:03:46Z" finished-at="2019-09-10T14:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyInvalidLoginPageE -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyInvalidLoginPageE@4883b407]" name="postCondition" is-config="true" duration-ms="15" started-at="2019-09-10T14:03:54Z" finished-at="2019-09-10T14:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyInvalidLoginPageE -->
+      <class name="com.hdfc_insurance_project.script.VerfyChkBox">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyChkBox@5622fdf]" name="preCondition" is-config="true" duration-ms="10889" started-at="2019-09-10T14:03:23Z" finished-at="2019-09-10T14:03:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="verfyChkBox()[pri:0, instance:com.hdfc_insurance_project.script.VerfyChkBox@5622fdf]" name="verfyChkBox" duration-ms="306" started-at="2019-09-10T14:03:34Z" finished-at="2019-09-10T14:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyChkBox -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.hdfc_insurance_project.script.VerfyChkBox@5622fdf]" name="postCondition" is-config="true" duration-ms="16" started-at="2019-09-10T14:03:35Z" finished-at="2019-09-10T14:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.hdfc_insurance_project.script.VerfyChkBox -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
